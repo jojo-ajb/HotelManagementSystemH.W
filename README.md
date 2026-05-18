@@ -84,8 +84,3 @@ The system is designed using Layered Architecture:
 - Improved code readability
 - Added comments for better understanding
 - Organized database operations
-
----
-
-## 📌 Author
-Student Project – Software Engineering Assignment
